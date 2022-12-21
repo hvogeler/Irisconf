@@ -49,7 +49,7 @@
       "KC_C",
       "KC_V",
       "KC_B",
-      "KC_HOME",
+      "KC_LGUI",
       "KC_ENT",
       "KC_N",
       "KC_M",
@@ -57,12 +57,12 @@
       "KC_DOT",
       "KC_SLSH",
       "KC_RSFT",
-      "MO(1)",
       "MO(2)",
+      "MO(1)",
       "KC_SPC",
       "KC_ENT",
-      "KC_LGUI",
-      "KC_RALT"
+      "KC_LCTL",
+      "KC_LALT"
     ],
     [
       "KC_TILD",
